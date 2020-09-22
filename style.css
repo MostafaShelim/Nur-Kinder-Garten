@@ -1,0 +1,59 @@
+.sign-in{
+	border-radius: 30px;
+	background: green;
+	color: white;
+}
+.ul-margin li{
+	margin-right: 10px;
+}
+.illustration-img{
+	width: 450px;
+	height: 300px;
+}
+.container{
+	margin-bottom: 70px;
+}
+.bg-color{
+	background: #c6f5b5;
+}
+.text-bold{
+	font-weight: 600;
+}
+.middle .card img{
+	width: 80px;
+	height: 100px;
+}
+.middle .card{
+	border: none;
+	background: #c6f5b5;
+	border-radius: 10px;
+}
+.last .card{
+	padding: 20px;	
+	border: none;
+	box-shadow: 3px 5px 5px 5px lightgray;
+	border-radius: 10px;
+}
+.testimonial img{
+	margin-right: 30px;
+	width: 110px;
+	height: 110px;
+}
+.last .card p{
+	margin-top: 30px;
+}
+.card p img{
+	width: 25px;
+	height: 20px;
+	margin-right: 10px;
+}
+.foot{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.foot a{
+	color: white;
+}
+.foot p{
+	text-align: justify;
+}
